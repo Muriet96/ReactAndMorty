@@ -1,0 +1,62 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "emptyList": "No characters available"
+  },
+  "listScreen": {
+    "searchPlaceholder": "Search characters...",
+    "emptyResults": "No results found for your search",
+    "emptyFavorites": "You have no favorite characters",
+    "filters": {
+      "latest": "Latest",
+      "popular": "Popular",
+      "favorites": "Favorites"
+    }
+  },
+  "errors": {
+    "charactersNotFound": "Character not found",
+    "loadCharacters": "Failed to load character"
+  },
+  "detailScreen": {
+    "status": "Status",
+    "species": "Species",
+    "origin": "Origin",
+    "appearances": "Appearances",
+    "actions": {
+      "save": "Save",
+      "share": "Share",
+      "report": "Report"
+    },
+    "episode": "episode",
+    "episodes": "episodes"
+  },
+  "card": {
+    "author": "Author",
+    "anonymous": "Anonymous",
+    "readMore": "Read more",
+    "save": "Save",
+    "saved": "Saved",
+    "dateFormat": "MM/DD/YYYY",
+    "appearances": "Appearances: {{count}}",
+    "comments": {
+      "zero": "No comments",
+      "one": "1 comment",
+      "other": "{{count}} comments"
+    }
+  },
+  "share": {
+    "title": "Share character",
+    "message": "Check out this character: {{title}} - {{url}}"
+  },
+  "save": {
+    "success": "Character saved to favorites",
+    "error": "Error saving character"
+  },
+  "actions": {
+    "addFavorite": "Add to favorites",
+    "removeFavorite": "Remove from favorites",
+    "goBack": "Go back"
+  }
+}

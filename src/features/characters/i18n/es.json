@@ -1,0 +1,62 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "retry": "Reintentar",
+    "emptyList": "No hay elementos para mostrar"
+  },
+  "listScreen": {
+    "title": "Personajes",
+    "searchPlaceholder": "Buscar personajes...",
+    "filter": {
+      "latest": "Más recientes",
+      "popular": "Más populares",
+      "favorites": "Favoritos"
+    },
+    "emptyResults": "No se encontraron personajes",
+    "emptyFavorites": "No tienes personajes favoritos"
+  },
+  "detailScreen": {
+    "status": "Estado",
+    "species": "Especie",
+    "origin": "Origen",
+    "appearances": "Apariciones",
+    "actions": {
+      "save": "Guardar",
+      "share": "Compartir",
+      "report": "Reportar"
+    },
+    "episode": "episodio",
+    "episodes": "episodios"
+  },
+  "card": {
+    "author": "Autor",
+    "anonymous": "Anónimo",
+    "readMore": "Leer más",
+    "save": "Guardar",
+    "saved": "Guardado",
+    "dateFormat": "DD/MM/YYYY",
+    "comments": {
+      "zero": "Sin comentarios",
+      "one": "1 comentario",
+      "other": "{{count}} comentarios"
+    }
+  },
+  "share": {
+    "title": "Compartir personaje",
+    "message": "Mira esta personaje: {{title}} - {{url}}"
+  },
+  "save": {
+    "success": "Personaje guardada en favoritos",
+    "error": "Error al guardar la personaje"
+  },
+  "errors": {
+    "charactersNotFound": "Personaje no encontrada",
+    "loadCharacters": "No se pudo cargar la personaje"
+  },
+  "actions": {
+    "addFavorite": "Agregar a favoritos",
+    "removeFavorite": "Quitar de favoritos",
+    "goBack": "Volver"
+  }
+}
